@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="launchingBack">#0B0225</color>
+    <color name="third">#9B9BB1</color>
+    <color name="forth">#323686</color>
+
+</resources>

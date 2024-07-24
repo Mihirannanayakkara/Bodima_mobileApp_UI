@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">BodimaApp</string>
+    <string name="email">Email Address</string>
+    <string name="Uname">User Name</string>
+    <string name="password">Password</string>
+    <string name="cnfrmPassword">Confirm Password</string>
+    <string name="emailhnt">Enter email</string>
+    <string name="namehnt">Enter name</string>
+    <string name="passwordhnt">Enter password</string>
+    <string name="cpasswordhnt">Re-Enter password</string>
+    <string name="signupTitle">Get Started Free </string>
+    <string name="signUp">Sign Up</string>
+    <string name="passwordCons">Password may contain only letters and numbers, and be at least 6 characters long</string>
+    <string name="logintext1">Already have an account? Log in</string>
+    <string name="logintitle">Welcome Back!</string>
+    <string name="logintitle2">welcome back we missed you</string>
+    <string name="login">Log In</string>
+    <string name="fpassword">Forgot Password?</string>
+    <string name="logintitle3">or continue with</string>
+    <string name="onboardButton">Continue</string>
+    <string name="onboard1des">Find your perfect location space in Sri Lanka</string>
+    <string name="onboard2des">Search filters help you find listings that meet your needs</string>
+    <string name="onboard3des">Earn extra income by listing your space! Fast.</string>
+    <string name="skip">Skip</string>
+    <string name="dashboardtitle">Get Started with Bodima App</string>
+    <string name="dashboardtitle1">Continue without registration </string>
+    <string name="privacy">By continuing you accept our Privacy Policy, Terms of Use </string>
+    <string name="hometext1">Welcome to Bodima</string>
+    <string name="hometext2">Mihran Nanaa</string>
+    <string name="hometext3">Searching for...</string>
+    <string name="hometext4">Annexes</string>
+    <string name="hometext5">Rooms</string>
+    <string name="hometext6">Popular</string>
+    <string name="hometext6.1">New</string>
+    <string name="hometext7">See all</string>
+    <string name="hometext8">Profile</string>
+    <string name="profile1">mihiran@gmail.com</string>
+    <string name="profile22">Malabe,Sri Lanka</string>
+    <string name="profile3">Whats new</string>
+    <string name="profile4">FAQ</string>
+    <string name="profile5">Contact Us </string>
+    <string name="profile6">Privacy Policy </string>
+    <string name="profile7">Log Out</string>
+    <string name="profile8">Edit Prodile</string>
+    <string name="support">Support</string>
+    <string name="support2">Hi Bodima, i am looking for an annex near SLIIT malabe campus,
+        my budget is LKR 10,000 per month and i would like to move in by 3rd march</string>
+    <string name="support3">Hey,thanks for eaching out of Bodima!Hope you are having a good one!</string>
+    <string name="support4">14:05</string>
+    <string name="support5">Bodima</string>
+    <string name="support6">Thank you for all the details!Could you please check your
+        email i have send some related annex details</string>
+    <string name="save">Saved</string>
+    <string name="save1">Save what you like for Later</string>
+    <string name="save2">Now you can easily list your favourite properties, helps you to compare and buy.</string>
+    <string name="details">Annex for rent in Malabe</string>
+    <string name="details1">Waliwita Road,Malabe</string>
+    <string name="details2">LKR 10,000/Per Person</string>
+    <string name="details3">Description</string>
+    <string name="details5">Buy Now</string>
+    <string name="details4">This 2 bed/1 bath annex boasts an enormous,
+        open-living space,accented by striking architectural features
+        and high-end finishes.Suitable for 5 persons.Key money needed
+        for two months.Contact us 071 22 345 34</string>
+    <string name="card1">Malabe Town</string>
+    <string name="card1.1">LKR 50,000</string>
+    <string name="card1.2">Annex for Rent</string>
+    <string name="card2">Room for two Boys</string>
+    <string name="card2.1">Peradeniya, Kandy</string>
+    <string name="card2.2">LKR 17,000</string>
+    <string name="card3">Luxury Room for Rent</string>
+    <string name="card3.1">Sri jayawardhanapura</string>
+    <string name="card3.2">LKR 28,000</string>
+    <string name="postad">Post an Ad</string>
+    <string name="postad1">Want to Rent Out Your Property</string>
+    <string name="postad2">Choose and option below to post an ad</string>
+    <string name="postad3">Location</string>
+    <string name="postad4">Add a description</string>
+    <string name="postad5">Price</string>
+    <string name="postad6">Contact Number</string>
+    <string name="postad7">Add photos</string>
+    <string name="postad8">Add Post</string>
+    <string name="homecard">Annex for rent in Galle</string>
+    <string name="homecard3">Infront of Karaptiya Hospital</string>
+    <string name="homecard4">LKR 45,000</string>
+</resources>
